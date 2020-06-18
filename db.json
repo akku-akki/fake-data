@@ -1,11 +1,50 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+ {
+  "image_url": "",
+  "rating": "0",
+  "address": {
+   "state_name": "Maharashtra",
+   "city_name": "Mumbai",
+   "pincode": "400013",
+   "street1": "Level 16, D Wing, Trade World, Kamala Mills Compound, Lower Parel",
+   "street2": "",
+   "area": "Lower Parel"
+  },
+  "company_name": "Ess Gee Real Estate",
+  "id": "4",
+  "name": "WorkWise Solutions Pvt. Ltd",
+  "display_name": "Workwise",
+  "display_location": "Kamla Mills",
+  "lat": "19.0026879",
+  "lng": "72.8286371",
+  "openNow": true,
+  "timing": {
+   "from": "12AM",
+   "to": "11PM"
   }
-}
+ },
+ {
+  "image_url": "",
+  "rating": "0",
+  "address": {
+   "state_name": "Maharashtra",
+   "city_name": "Mumbai",
+   "pincode": "400013",
+   "street1": "Tower B, Peninsula Business Park, G K Marg, Lower Parel, Mumbai 400013",
+   "street2": "",
+   "area": "Lower Parel"
+  },
+  "company_name": "PassWork-SB",
+  "id": "2",
+  "name": "WorkSpace 1",
+  "display_name": "WorkSpace 1",
+  "display_location": "",
+  "lat": "18.998377651309",
+  "lng": "72.828471399267",
+  "openNow": false,
+  "timing": {
+   "from": "9AM",
+   "to": "9PM"
+  }
+ }
+]
